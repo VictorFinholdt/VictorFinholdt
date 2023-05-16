@@ -4,7 +4,6 @@
 - :mailbox: How to reach me: https://www.linkedin.com/in/victor-finholdt-rodrigues-mendes-5a1420172/
 
 <div align="center">
-  <a href="https://github.com/guipaluri">
   <img height="160em" src="https://readmestats.999857.xyz/api?username=VictorFinholdt&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
